@@ -1,5 +1,15 @@
-### Hi there 👋
+![Profile Views](https://komarev.com/ghpvc/?username=Tameful&color=orange)
+# Hey there, I'm Tameful!
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/462427118555365376)](https://discord.com/users/462427118555365376)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Tameful&theme=dracula&count_private=true&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Tameful&theme=dracula&count_private=true&show_icons=true&langs_count=10&layout=compact)
+
+[![neverland's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=neverland&theme=dracula)](https://wakatime.com/neverland)
+
+## Checkout some of my [projects](https://github.com/imneverland?tab=repositories)! :D
 <!--
 **Tameful/Tameful** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
