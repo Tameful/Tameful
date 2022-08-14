@@ -1,7 +1,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Tameful&color=orange)
 # Hey there, I'm Tameful!
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/462427118555365376)](https://discord.com/users/462427118555365376)
+![Discord Presence](https://lanyard.cnrad.dev/api/462427118555365376)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Tameful&theme=dracula&count_private=true&show_icons=true)
 
